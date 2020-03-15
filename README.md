@@ -1,0 +1,2 @@
+# buges-one
+bug库
